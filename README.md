@@ -17,7 +17,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"/>
 
 #### Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
