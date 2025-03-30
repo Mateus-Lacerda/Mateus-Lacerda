@@ -1,6 +1,6 @@
 # Mateus Lacerda - Artificial Inteligence Engineer
 
-- Very very Pythonic in every language
+- Very very Pythonic in every language that allows it
 - Agentic flows
 - Relational, Non-Relational and Vector Databases
 - Machine Learning
