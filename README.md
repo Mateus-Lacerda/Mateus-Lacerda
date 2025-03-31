@@ -10,7 +10,7 @@
 - In search for the major tech flex
   - Linux (still not arch btw)
   - Neovim
-  - Full rust project
+  - Migrate something to Rust
 
 ## Academic history
 - Artificial Intelligence Bachelor in formation in Federal University of Goiás (UFG).
