@@ -7,11 +7,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"/>
 
-- In search for the major tech flex
-  - Linux (still not arch btw)
-  - Neovim
-  - Migrate something to Rust
-
 ## Academic history
 - Artificial Intelligence Bachelor in formation in Federal University of Goiás (UFG).
 - Instructor for an OBMEP project teaching elementary school students mathematics with a focus on scientific olympiads.
