@@ -1,26 +1,57 @@
-# Mateus Lacerda - Artificial Inteligence Engineer
+```
+                ░▒▓██████████████▓▒░ ░▒▓██████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓███████▓▒░ 
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ ░▒▓█▓▒░   ░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+                ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓████████▓▒░░▒▓██████▓▒░░▒▓███████▓▒░
+             
+             ░▒▓█▓▒░       ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓███████▓▒░ ░▒▓██████▓▒░  
+             ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+             ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+             ░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░      ░▒▓██████▓▒░ ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
+             ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+             ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+             ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+```
 
-- Very very Pythonic in every language that allows it
-- Agentic flows
-- Relational, Non-Relational and Vector Databases
-- Machine Learning
+### Projects
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"/>
+### Artificial Intelligence
 
-## Academic history
-- Artificial Intelligence Bachelor in formation in Federal University of Goiás (UFG).
-- Instructor for an OBMEP project teaching elementary school students mathematics with a focus on scientific olympiads.
-- Research projects at the Center of Excellence in Artificial Intelligence in the areas of health risk management and gamification in the fitness world.
+- **[Health Com](https://github.com/Mateus-Lacerda/health_com)**  
+  An MVP of an intelligent multi-agent system for the healthcare sector, facilitating the search, analysis, and presentation of information extracted from medical documents using modern AI techniques.
 
-### High School
-- Passed the entrance exam for EPCAr (Air Cadet Preparatory School) at the age of 16.
-- Physics and programming tutor.
-- Interim member of the Social and Geopolitical Studies Center.
-- Vice-president of the T-6 Association.
- 
-#### Academic Achievements:
-- OBMEP (Brazilian Mathematics Olympiad for Public Schools).
-- OBFEP (Brazilian Physics Olympiad for Public Schools).
-- OMU (Unicamp Mathematics Olympiad).
-- ONC (National Science Olympiad).
-- OBA (Brazilian Astronomy and Astronautics Olympiad).
+- **[Doorman.AI](https://github.com/Mateus-Lacerda/Doorman.AI)**  
+  A facial recognition-based system for user authentication and identification, developed for a Computer Vision course.
+
+- **[BinauralSounds.AI](https://github.com/Mateus-Lacerda/BinauralSounds.AI)**  
+  A project that generates music from textual descriptions using Meta's MusicGen model and applies frequency modulation to create binaural beats.
+
+- **[React ReAct Agent](https://github.com/Mateus-Lacerda/React_ReAct_Agent)**  
+  An agent-driven project for creating and running React applications using the ReAct methodology, streamlining web development workflows.
+
+### Databases
+
+- **[Vector Databases Benchmarking](https://github.com/Mateus-Lacerda/vector_databases_benchmarking)**  
+  A personal benchmarking project for vector databases (Elastic, Qdrant, Milvus) for RAG tasks, using a dataset from Hugging Face.
+
+### Games and Entertainment
+
+- **[Basic Adventure Game in Python](https://github.com/Mateus-Lacerda/BasicAdventure2.0)**  
+  A text-based adventure game written in Python, designed to explore fundamental programming concepts.
+
+- **[Neovim Snake Game](https://github.com/Mateus-Lacerda/snake.nvim)**  
+  A Neovim plugin that enables playing the classic Snake game in a floating terminal window.
+
+- **[Neovim Basic Adventure](https://github.com/Mateus-Lacerda/basic_adventure.nvim)**  
+  A Neovim plugin that integrates a text-based adventure game into the editor, developed in Python.
+
+### Productivity Tools
+
+- **[Term Planner](https://github.com/Mateus-Lacerda/term_planner)**  
+  A minimalist terminal-based task planner written in Rust with a TUI interface.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&layout=compact&theme=buefy&hide_border=true" />
+</p>
