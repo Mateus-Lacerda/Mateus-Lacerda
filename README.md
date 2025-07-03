@@ -48,6 +48,9 @@
 - **[Neovim Basic Adventure](https://github.com/Mateus-Lacerda/basic_adventure.nvim)**  
   A Neovim plugin that integrates a text-based adventure game into the editor, developed in Python.
 
+- **[Pardos RT](https://github.com/Mateus-Lacerda/pardos_rt)**
+  A simple natively ray traced game engine implemented from scratch with c++, paralelized with `openmp` and `cuda`.
+
 ### Productivity Tools
 
 - **[Term Planner](https://github.com/Mateus-Lacerda/term_planner)**  
