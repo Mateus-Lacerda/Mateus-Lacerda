@@ -1,8 +1,10 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&layout=compact&theme=buefy&hide_border=true" />
+  <img src="https://www.codewars.com/users/Mateus-Lacerda/badges/micro" />  
+  <img src="https://wakatime.com/badge/user/b67e9b7d-4a3a-4f33-a422-a06be3c2b876.svg"/>
   <br><br>
-  <img src="https://www.codewars.com/users/Mateus-Lacerda/badges/micro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&layout=compact&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateus_Lacerda"/>
 </p>
 
 ### Projects
