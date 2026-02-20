@@ -1,8 +1,3 @@
-
-### Projects
-
-### Artificial Intelligence
-
 <p>
   <img src="https://www.codewars.com/users/Mateus-Lacerda/badges/micro" />  
   <img src="https://wakatime.com/badge/user/b67e9b7d-4a3a-4f33-a422-a06be3c2b876.svg"/>
