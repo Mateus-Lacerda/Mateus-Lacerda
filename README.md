@@ -1,15 +1,20 @@
 
+> [!NOTE]  
+> To be updated, when I get the time.
+
+
+
 <p align="center">
   <img src="https://www.codewars.com/users/Mateus-Lacerda/badges/micro" />  
   <img src="https://wakatime.com/badge/user/b67e9b7d-4a3a-4f33-a422-a06be3c2b876.svg"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Lacerda&layout=compact&theme=buefy&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateus_Lacerda"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mateus-Lacerda&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
 ### Projects
 
 ### Artificial Intelligence
+
 
 - **[Health Com](https://github.com/Mateus-Lacerda/health_com)**  
   An MVP of an intelligent multi-agent system for the healthcare sector, facilitating the search, analysis, and presentation of information extracted from medical documents using modern AI techniques.
@@ -50,13 +55,18 @@
 
 
 ```
-                                              ___
-                                            < hey >
-                                              ---
-                                                     \   ^__^ 
-                                                      \  (oo)\_______
-                                                         (__)\       )\/\\
-                                                             ||----w |
-                                                             ||     ||
+                                    _____________________________________
+                                  / And here is a dump of all the stuff I \\
+                                  \\ work with                             /
+                                    -------------------------------------
+                                           \   ^__^ 
+                                            \  (oo)\_______
+                                               (__)\       )\/\\
+                                                   ||----w |
+                                                   ||     ||
 ```
 
+<br><br>
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Mateus_Lacerda&layout=compact"/>
+</p>
